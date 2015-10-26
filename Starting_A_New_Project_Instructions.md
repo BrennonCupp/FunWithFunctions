@@ -21,4 +21,4 @@ Now begin Git and Git Hub
 8. Create a new repository
 		:name it but do not initialize with a read me file.
 9. Follow the instructions based on what it is you want to do.
-10. *Make sure to save often.*
+10. **Make sure to save often.**
